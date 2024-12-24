@@ -1,2 +1,2 @@
-# HIX64.github.io
+# https://hi-x64.github.io/HIX64
 Hello World
